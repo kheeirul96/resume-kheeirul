@@ -56,13 +56,8 @@ career-profile:
       Second paragraph if required.
 
 education:
-<<<<<<< HEAD
     - degree: BSc in Networking and Data Communication
-      university: Universiti Teknologi Mara in Jasin
-=======
-    - degree: MSc in Networking and Data Communication
       university: Universiti Teknologi Mara in Jasin 
->>>>>>> master
       time: 2017 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
